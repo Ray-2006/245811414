@@ -34,7 +34,7 @@ class Room implements Serializable {
     }
 }
 
-public class HotelBookingSystem {
+public class Q2_HotelBooking {
     private static final String FILE_NAME = "rooms.ser";
 
     private static void saveRooms(List<Room> rooms) throws IOException {
