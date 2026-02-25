@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jrt-fs">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Lab3/oracleJdk-25/lib/jrt-fs.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
